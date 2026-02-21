@@ -9,9 +9,9 @@ def greatest(a, b, c):
         (c>b and c>a)
         return c
     
-
 a= 23
 b= 21
 c= 45
+
 
 print(greatest(a, b, c))
