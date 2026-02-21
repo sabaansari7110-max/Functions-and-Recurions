@@ -6,9 +6,9 @@ The purpose of this repository is to strengthen core programming fundamentals an
 <br>
 It focuses on writing clean, reusable, and well-structured code.
 <br>
-## Topics Covered
+##Topics Covered
 <br>
-# Functions
+#Functions
 <br>
 Function syntax
 <br>
@@ -26,7 +26,7 @@ Lambda functions
 <br>
 Nested functions
 <br>
-# Recursion
+#Recursion
 <br>
 What is recursion?
 <br>
@@ -46,42 +46,8 @@ Power calculation
 <br>
 Reverse string using recursion
 <br>
-## Folder Structure
-<br>
-Copy code
 
-<br>
-functions_and_recursion\
-<br>
-│
-├── 01_basic_function.py
-<br>
 
-├── 02_function_with_parameters.py
-<br>
-
-├── 03_return_statement.py
-<br>
-
-├── 04_default_arguments.py
-<br>
-
-├── 05_lambda_function.py
-<br>
-
-│
-├── 06_factorial_recursion.py
-<br>
-
-├── 07_fibonacci_recursion.py
-<br>
-
-├── 08_sum_recursion.py
-
-├── 09_power_recursion.py
-<br>
-└── 10_reverse_string_recursion.py
-<br>
 Each file contains:
 <br>
 Problem statement
@@ -90,7 +56,7 @@ Python solution
 <br>
 Comments for explanation
 <br>
-## Learning Outcomes
+##Learning Outcomes
 <br>
 After completing this repository, I can:
 <br>
@@ -104,7 +70,7 @@ Improve logical and structured thinking
 <br>
 Compare recursion and iteration approaches
 <br>
-## Why This Repository is Important
+##Why This Repository is Important
 <br>
 Functions and recursion are fundamental concepts used in:
 <br>
